@@ -1,0 +1,16 @@
+# Ajar Online
+
+> Ajar Online is a cloud-based property management and rent-collection platform headquartered in Kuwait (founded 2015). It lets landlords, agencies, and property managers send rent requests over SMS and email and collect payment via cards, KNET, and Sadad, with portfolio dashboards, tenant/contract management, and analytics. It operates across Kuwait, the UAE, and Saudi Arabia.
+
+Provenance: generated 2026-07-17, method generated, source apis.yml. Ajar Online runs a live authenticated API backend (api.joinajar.com) but publishes no public OpenAPI definition, reference documentation, or SDK; this file is generated from the API Evangelist catalog profile, not from a provider-published llms.txt.
+
+## Company
+- Ajar Online website: https://ajar.com.kw
+- Ajar Online (product site): https://joinajar.com
+
+## APIs
+- Ajar Online API (base URL, authenticated; health only at root): https://api.joinajar.com
+
+## Artifacts
+- Domain security probe (TLS/HSTS/DNSSEC/CAA/SPF/DMARC): security/ajar-online-domain-security.yml
+- APIs.json catalog profile: https://raw.githubusercontent.com/api-evangelist/ajar-online/refs/heads/main/apis.yml
