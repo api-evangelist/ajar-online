@@ -34,6 +34,9 @@ description: Ajar Online is a cloud-based property management and rent-collectio
   definition, or SDK published at this time, so this profile captures verifiable identity and
   domain-security signals pending a public developer surface.
 url: https://raw.githubusercontent.com/api-evangelist/ajar-online/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "The company operates a live, authenticated API backend at api.joinajar.com; there is no public API documentation, OpenAPI definition, or SDK published at this time, so this profile captures verifiable"
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
