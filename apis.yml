@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://ajar.com.kw', status: 301, note: 'declared website redirects to https://joinajar.com/ — a different registrable domain (com.kw -> joinajar.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ajar-online.png
 name: Ajar Online
 description: Ajar Online is a cloud-based property management and rent-collection platform
