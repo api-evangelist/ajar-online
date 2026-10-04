@@ -50,7 +50,7 @@ created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
-- Real-Estate
+- Real Estate
 - PropTech
 - Property Management
 - Rent Payments
@@ -66,6 +66,7 @@ tags_raw:
 - Payments
 - Kuwait
 - MENA
+- Real-Estate
 apis:
 - name: Ajar Online API
   description: Live authenticated backend API for the Ajar Online property-management and
