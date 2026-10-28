@@ -64,6 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ajar Online is a company surfaced as a portfolio company of 500-global and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Ajar Online is a cloud-based property management and rent-collection platform headquartered in Kuwait and founded in 2015. It lets landlords, real-estate agencies, and property managers digitize rent collection and property administration, sending payment requests to tenants over SMS and email and accepting payment via credit and debit cards, KNET, and Sadad so tenants can pay in under a minute from anywhere. The platform adds portfolio dashboards, tenant and contract management, and analytics for data-driven property decisions, and has expanded across the GCC into the UAE and Saudi Arabia. The company operates a live, authenticated API backend at api.joinajar.com; there is no public API documentation, OpenAPI definition, or SDK published at this time, so this profile captures verifiable identity and domain-security signals pending a public developer surface.
 
-Backed by: 500-global — https://ajar.com.kw
+**Areas:** Company · Real Estate · PropTech · Property Management · Rent Payments · Payments · Kuwait · MENA
+
+## Ajar Online on APIs.io
+
+Everything profiled for Ajar Online is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ajar-online/](https://apis.io/providers/ajar-online/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Ajar Online API](https://apis.io/apis/ajar-online/ajar-online-api/) — Live authenticated backend API for the Ajar Online property-management and rent-collection platform. The service root reports health but all resource…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ajar Online Domain Security](https://apis.io/security/ajar-online/ajar-online-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ajar.com.kw)
+- [Blog](https://joinajar.com/blog/)
+
+## API Evangelist rating
+
+**Kin Score 5.7** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 73.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.4** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ajar-online/](https://apis.io/providers/ajar-online/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ajar Online: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ajar-online/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
